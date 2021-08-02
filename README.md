@@ -13,3 +13,5 @@ Modules Required:
     . BeautifulSoup
     
     . Urllib3
+
+Project Deployment Link: https://scrappystreamlit.herokuapp.com/
